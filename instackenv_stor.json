@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "mac": [
+        "52:54:00:b4:f6:38"
+      ],
+      "name": "overcloud-stor01",
+      "pm_addr": "192.168.1.1",
+      "pm_port": "6236",
+      "pm_password": "password",
+      "pm_type": "pxe_ipmitool",
+      "pm_user": "admin"
+   } 
+  ]
+}
+
